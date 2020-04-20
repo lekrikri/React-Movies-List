@@ -1,0 +1,42 @@
+.content {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.root {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    
+}
+
+.gridList {
+    width: 600;
+    height: 500;
+}
+
+.icon {
+    color: rgba(255, 255, 255, 0.54);
+}
+
+.thumbUpAltIcon {
+    color: rgba(255, 255, 255, 0.616);
+}
+
+.badge {
+    right: -3;
+    top: 13;
+    border: 2px solid ;
+    padding: 0 4px;
+}
+
+.MuiButtonBase-root {
+    display: flex;
+    
+
+}
